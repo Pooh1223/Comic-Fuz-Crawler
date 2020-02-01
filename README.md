@@ -15,7 +15,28 @@ I will try to add more features to make it become a more useful program.
 
 For now, it can help few people only.
 
----
+## How to use
+
+### 1. cd to the project directory using cmd or bash or whatever
+
+For example:
+
+![step1](https://i.imgur.com/JVrPJX5.png)
+
+### 2. Type in jupyter notebook
+
+![step2](https://i.imgur.com/w7fBYf6.png)
+
+### 3.Click in ComicFuz.ipynb
+
+![step3](https://i.imgur.com/2XFr86A.png)
+
+### 4.Click that cell and press ctrl+Enter
+
+![step4](https://i.imgur.com/KyflrGX.png)
+
+### 5.Wait and use
+
 ## Dependency
 
 Make sure you have these things in your computer.

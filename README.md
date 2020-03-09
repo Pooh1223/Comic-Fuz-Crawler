@@ -37,6 +37,13 @@ For example:
 
 ### 5.Wait and use
 
+## Unfinished Features
+
+- [ ] Add guest page (without login)
+- [ ] Allow download any manga with specific url
+- [ ] Add more processing explanation 
+- [ ] Allow user choose their own download path
+
 ## Dependency
 
 Make sure you have these things in your computer.

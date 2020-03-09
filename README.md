@@ -43,6 +43,7 @@ For example:
 - [ ] Allow download any manga with specific url
 - [ ] Add more processing explanation 
 - [ ] Allow user choose their own download path
+- [ ] Allow user open it without check what happen at Jupyter Notebook (Maybe pack it into exe)
 
 ## Dependency
 

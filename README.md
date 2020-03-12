@@ -37,12 +37,25 @@ For example:
 
 ### 5.Wait and use
 
+## About res.json
+
+```
+#this is a comment
+
+{
+  "autoLogin" : "0",    #0 stands for no,1 stands for yes, please don't enter other number
+  "username" : "",   #Add your ComicFuz username here
+  "password" : "",   #Add your ComicFuz password here
+  "filepath" : ""    #Add your file path here,for example, mine is D:\Picture\ComicFuz
+}
+```
+
 ## Unfinished Features
 
 - [ ] Add guest page (without login)
 - [ ] Allow download any manga with specific url
 - [ ] Add more processing explanation 
-- [ ] Allow user choose their own download path
+- [x] Allow user choose their own download path
 - [ ] Allow user open it without check what happen at Jupyter Notebook (Maybe pack it into exe)
 
 ## Dependency
